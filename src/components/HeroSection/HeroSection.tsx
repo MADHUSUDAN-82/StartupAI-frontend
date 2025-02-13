@@ -117,7 +117,7 @@ const HeroSection = () => {
                       alt={`${type} Roadmap`}
                       className="w-6 h-6"
                     />
-                    <p className="text-gray-300 capitalize">{type} Roadmap</p>
+                    <p className="text-gray-300 capitalize">{type} Consult</p>
                   </div>
                 </div>
               ))}
